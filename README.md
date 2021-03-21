@@ -22,7 +22,7 @@
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soilshubham&label=Profile%20Views&color=blueviolet&style=flat" alt="akash-chowrasia" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=soilshubham&label=Profile%20Views&color=949494&style=flat" alt="sahil" /> </p>
 <img align="right" width=200px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
 <h4><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20px">&nbsp;<i>Talking about Personal Stuffs...</i></h4>
@@ -31,11 +31,24 @@
 ✔ I like art, creating it gives me joy 😄<br>
 ✔ I’m currently learning everything about **Frontend** and **Backend** technologies 😅<br>
 ⚡ Fun fact: I like potatoes 🥔<br><br><br>
- 
 
-<h4><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20px">&nbsp;<i>Languages & Tools I Know...</i></h4>
+<div>
+<h3><p align="center"><i><b>GitHub Stats</b></i></p></h3><br>
+
+<a href="https://github.com/soilshubham">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=soilshubham&show_icons=true&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="Dave's github stats"/>
+</a>
+&nbsp;
+<a href="https://github.com/soilshubham">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soilshubham&theme=tokyonight&show_icons=true&locale=en&layout=compact" width="413"/>
+</a>
+
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=soilshubham&repo=robofriends&theme=tokyonight" width="200px" /></p> -->
+<br><br><br><hr>
+</div>
+
+<br><h4><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20px">&nbsp;<i>Languages & Tools I Know...</i></h4>
 <p align="left"><br>
-  
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -54,26 +67,9 @@
 <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <br><br><br>
-
 <hr>
 
 
-<div>
-<h3><p align="center"><i><b>GitHub Stats</b></i></p></h3><br>
-
-<a href="https://github.com/soilshubham">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=soilshubham&show_icons=true&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="Dave's github stats"/>
-</a>
-&nbsp;
-<a href="https://github.com/soilshubham">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soilshubham&theme=tokyonight&show_icons=true&locale=en&layout=compact" width="413"/>
-  </a>
-
-
-
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=soilshubham&repo=robofriends&theme=tokyonight" width="200px" /></p> -->
-<br><br><br><hr>
-</div>
 
 ## 🙋‍♂️ Connect with me:
 
