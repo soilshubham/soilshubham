@@ -25,29 +25,29 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=soilshubham&label=Profile%20Views&color=949494&style=flat" alt="sahil" /> </p>
 <img align="right" width=200px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
-<h4><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20px">&nbsp;<i>Talking about Personal Stuffs...</i></h4>
+### ✨Talking about Personal Stuffs...
 
 ✔ I’m currently sleeping 😴 or working on my laptop 👨‍💻<br>
 ✔ I like art, creating it gives me joy 😄<br>
 ✔ I’m currently learning everything about **Frontend** and **Backend** technologies 😅<br>
 ⚡ Fun fact: I like potatoes 🥔<br><br><br>
 
-<div>
-<h3><p align="center"><i><b>GitHub Stats</b></i></p></h3><br>
+
+### 📈 Github Stats
 
 <a href="https://github.com/soilshubham">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=soilshubham&show_icons=true&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="Dave's github stats"/>
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=soilshubham&hide=issues&show_icons=true&theme=dracula&locale=en&layout=compact" alt="Sahil's github stats"  width="500"/>
 </a>
 &nbsp;
-<a href="https://github.com/soilshubham">
+<!-- <a href="https://github.com/soilshubham">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soilshubham&theme=tokyonight&show_icons=true&locale=en&layout=compact" width="413"/>
 </a>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=soilshubham&repo=robofriends&theme=tokyonight" width="200px" /></p> -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=soilshubham&repo=robofriends&theme=tokyonight" width="200px" /></p> -->
 <br><br><br><hr>
-</div>
+</div><br>
 
-<br><h4><img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="20px">&nbsp;<i>Languages & Tools I Know...</i></h4>
+### 🛠 Languages and Tools I know...
 <p align="left"><br>
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
@@ -71,7 +71,7 @@
 
 
 
-## 🙋‍♂️ Connect with me:
+### 🙋‍♂️ Connect with me:
 
 <p align="left">&nbsp;
   <a href="https://www.linkedin.com/in/soilshubham/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
