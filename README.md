@@ -35,17 +35,15 @@
 
 ### 📈 Github Stats
 
-<a href="https://github.com/soilshubham">
+<br><a href="https://github.com/soilshubham">
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=soilshubham&hide=issues&show_icons=true&theme=dracula&locale=en&layout=compact" alt="Sahil's github stats"  width="500"/>
 </a>
-&nbsp;
 <!-- <a href="https://github.com/soilshubham">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soilshubham&theme=tokyonight&show_icons=true&locale=en&layout=compact" width="413"/>
 </a>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=soilshubham&repo=robofriends&theme=tokyonight" width="200px" /></p> -->
-<br><br><br><hr>
-</div><br>
+
+<br><br><br><br><br><br><br><br><br>
 
 ### 🛠 Languages and Tools I know...
 <p align="left"><br>
@@ -67,12 +65,11 @@
 <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <br><br><br>
-<hr>
-
 
 
 ### 🙋‍♂️ Connect with me:
 
+<br>
 <p align="left">&nbsp;
   <a href="https://www.linkedin.com/in/soilshubham/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
   <a href="https://twitter.com/soilshubham"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>&nbsp;
