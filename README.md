@@ -15,24 +15,23 @@
 <p align="center">
   <em>
     This is ME, Sahil Shubham, a <b>2nd year</b> undergraduate from <a href="https://srmap.edu.in/"> <b>SRM University AP</b></a>. <br>
-    A budding <b>Full-Stack Web Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">, a <b>Game developer</b> and a <b>Design Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    A budding <b>Full-Stack Web Developer</b>, a <b>Game developer</b> and a <b>Design Enthusiast</b>&nbsp;&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
+    <b>grow</b> and 
+    <b>excel</b> &nbsp.
   </em> 
   <br>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+  <b><i>Learning while HOPING & HUSTLING!!!</i></b>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=soilshubham&label=Profile%20Views&color=949494&style=flat" alt="sahil" /> </p>
-<img align="right" width=200px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
 ### ✨Talking about Personal Stuffs...
 
 ✔ I’m currently sleeping 😴 or working on my laptop 👨‍💻<br>
 ✔ I like art, creating it gives me joy 😄<br>
 ✔ I’m currently learning everything about **Frontend** and **Backend** technologies 😅<br>
-⚡ Fun fact: I like potatoes 🥔<br><br><br>
+⚡ Fun fact: I like potatoes ALOT🥔<br><br><br>
 
 
 ### 📈 Github Stats
