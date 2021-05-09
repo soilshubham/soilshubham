@@ -1,6 +1,6 @@
 ## Hi, you've arrived at sahil's Git! <br>I'm not in right now, please leave a [message](https://twitter.com/soilshubham).
 
-<img src="./github banner.png" alt="sahil's banner" width=100%>
+<img src="./github banner.jpg" alt="sahil's banner" width=100%>
 
 ### :raising_hand: About me:
 I'm an <b>undergraduate</b> at <a href="https://srmap.edu.in/"> <b>SRM University AP</b></a>.<br>
