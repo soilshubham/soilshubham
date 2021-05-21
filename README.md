@@ -1,8 +1,8 @@
-## Hi, you've arrived at sahil's Git! <br>I'm not in right now, please leave a [message](https://twitter.com/soilshubham).
+# Hi, you've arrived at sahil's Git! <br>I'm not in right now, please leave a [message](https://twitter.com/soilshubham).
 
-<img src="./github banner.png" alt="sahil's banner" width=100%>
+<img src="./github banner.jpg" alt="sahil's banner" width=100%>
 
-### :raising_hand: About me:
+## :raising_hand: About me:
 I'm an <b>undergraduate</b> at <a href="https://srmap.edu.in/"> <b>SRM University AP</b></a>.<br>
 ◽ Intrested in <b>Full-Stack Developement</b>, <b>Game developement</b> and <b>UI designing</b>.<br>
 ◽ I like minimal art style.<br>
@@ -15,7 +15,7 @@ I'm an <b>undergraduate</b> at <a href="https://srmap.edu.in/"> <b>SRM Universit
 
 <div id="tech"></div>
 
-### Things I know
+## 💻 Things I know
 > <i>Tools, languages, and other things that I like to work with.</i>
 <br>
 <table>
@@ -72,13 +72,14 @@ I'm an <b>undergraduate</b> at <a href="https://srmap.edu.in/"> <b>SRM Universit
 </table>
 <br>
 
-<hr><br>
-<p align="center"=><i>In case you wanna reach out to me</i></p><br>
+##
+<br>
+<p align="center"=><i>In case you wanna reach out to me</i></p>
  <p align="center">
   <a href="https://www.linkedin.com/in/soilshubham/"><img alt="LinkedIn" title="LinkedIn" src="./icons/linkedin.svg" width=20px" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/soilshubham"><img alt="Twitter" title="Twitter" src="./icons/twitter.svg" width=20px/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/soilshubham/"><img alt="Instagram" title="Instagram" src="./icons/instagram.svg" width=20px/></a>&nbsp;&nbsp;&nbsp;
    <a href="mailto:soilshubham@gmail.com"><img alt="mail" title="mail" src="./icons/gmail.svg" width=20px/></a>
 </p>
-
+<br>
 
