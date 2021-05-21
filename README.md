@@ -44,6 +44,12 @@ I'm an <b>undergraduate</b> at <a href="https://srmap.edu.in/"> <b>SRM Universit
       </a>
       <br>React
     </td>
+     <td align="center" width="96">
+      <a>
+        <img src="./icons/sass.svg" width="40"/>
+      </a>
+      <br>SASS
+    </td>
     <td align="center" width="96">
       <a>
         <img src="./icons/bootstrap.svg" width="40"/>
@@ -67,7 +73,7 @@ I'm an <b>undergraduate</b> at <a href="https://srmap.edu.in/"> <b>SRM Universit
         <img src="./icons/ps.svg" width="40"/>
       </a>
       <br>Photoshop
-    </td> 
+    </td>
   </tr>
 </table>
 <br>
