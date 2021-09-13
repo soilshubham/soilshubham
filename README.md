@@ -1,4 +1,4 @@
-# Hi, you've arrived at sahil's Git! <br>I'm not in right now, please leave a [message](https://twitter.com/soilshubham).
+# Hi, you've arrived at sahil's Git! <br>I'm not in right now, please leave a [message](https://linktr.ee/soilshubham).
 
 <img src="./github banner.jpg" alt="sahil's banner" width=100%>
 
