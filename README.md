@@ -15,7 +15,7 @@ I'm an <b>undergraduate</b> at <a href="https://srmap.edu.in/"> <b>SRM Universit
 
 <div id="tech"></div>
 
-## 💻 Things I know
+## 💻 Skills
 > <i>Tools, languages, and other things that I like to work with.</i>
 <br>
 <table>
