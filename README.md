@@ -80,7 +80,7 @@ I'm an <b>undergraduate</b> at <a href="https://srmap.edu.in/"> <b>SRM Universit
 
 ##
 <br>
-<p align="center"=><i>In case you wanna reach out to me</i></p>
+<p align="center"=><i>Reach out to me</i></p>
  <p align="center">
   <a href="https://www.linkedin.com/in/soilshubham/"><img alt="LinkedIn" title="LinkedIn" src="./icons/linkedin.svg" width=20px" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/soilshubham"><img alt="Twitter" title="Twitter" src="./icons/twitter.svg" width=20px/></a>&nbsp;&nbsp;&nbsp;
