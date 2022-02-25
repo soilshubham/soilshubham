@@ -1,6 +1,7 @@
 # Hii, you've arrived at sahil's Git! <br>I'm not in right now, please leave a [message](https://soilshubham.github.io).
 
-<img src="./github banner.jpg" alt="sahil's banner" width=100%>
+
+<img src="./githubCover.png" alt="sahil's banner" width="100%">
 
 ## :raising_hand: About me:
 
@@ -20,54 +21,54 @@ I'm an <b>undergraduate</b> at <a href="https://srmap.edu.in/"> <b>SRM Universit
 
 <table>
   <tr>
-    <td align="center" width="30">
+    <td align="center" width="60">
       <a>
-        <img src="./icons/javascript.svg" width="40"/>
+        <img src="./icons/javascript.svg" width="50"/>
       </a>
     </td>
-    <td align="center" width="30">
+    <td align="center" width="60">
       <a>
-        <img src="./icons/node-js.svg" width="40"/>
+        <img src="./icons/node-js.svg" width="50"/>
       </a>
     </td>
-    <td align="center" width="30">
+    <td align="center" width="60">
       <a>
-        <img src="./icons/react.svg" width="40"/>
+        <img src="./icons/react.svg" width="50"/>
       </a>
     </td>
-    <td align="center" width="30">
+    <td align="center" width="60">
       <a>
-        <img src="./icons/nextjs.svg" width="40"/>
+        <img src="./icons/nextjs.svg" width="50"/>
       </a>
     </td>
-     <td align="center" width="30">
+     <td align="center" width="60">
       <a>
-        <img src="./icons/express.svg" width="40"/>
+        <img src="./icons/express.svg" width="50"/>
       </a>
     </td>
-    <td align="center" width="30">
+    <td align="center" width="60">
       <a>
-        <img src="./icons/mongodb.svg" width="40"/>
+        <img src="./icons/mongodb.svg" width="50"/>
       </a>
     </td>
-    <td align="center" width="30">
+    <td align="center" width="60">
       <a>
-        <img src="./icons/tailwindcss.svg" width="40"/>
+        <img src="./icons/tailwindcss.svg" width="50"/>
       </a>
     </td>
-    <td align="center" width="30">
+    <td align="center" width="60">
       <a>
-        <img src="./icons/sass.svg" width="40"/>
+        <img src="./icons/sass.svg" width="50"/>
       </a>
     </td>
-    <td align="center" width="30">
+    <td align="center" width="60">
       <a>
-        <img src="./icons/python.svg" width="40"/>
+        <img src="./icons/python.svg" width="50"/>
       </a>
     </td>
-    <td align="center" width="30">
+    <td align="center" width="60">
       <a>
-        <img src="./icons/unity.svg" width="40"/>
+        <img src="./icons/unity.svg" width="50"/>
       </a>
     </td>
   </tr>
