@@ -1,11 +1,11 @@
-# Hii, you've arrived at sahil's Git! <br>I'm not in right now, please leave a [message](https://linktr.ee/soilshubham).
+# Hii, you've arrived at sahil's Git! <br>I'm not in right now, please leave a [message](https://soilshubham.github.io).
 
-<img src="./github banner.jpg" alt="sahil's banner" width="100%">
+<img src="./github banner.jpg" alt="sahil's banner" width=100%>
 
-## About me:
+## :raising_hand: About me:
 
 I'm an <b>undergraduate</b> at <a href="https://srmap.edu.in/"> <b>SRM University AP</b></a>.<br>
-◽ Intrested in <b>Full-Stack Developement</b>, <b>Game developement</b> and <b>UI/UX designing</b>.<br>
+◽ Intrested in <b>Full-Stack Developement</b>, <b>Game developement</b> and <b>UI designing</b>.<br>
 ◽ I like minimal art style.<br>
 ◽ I’m currently learning everything about **Frontend** and **Backend** technologies.<br>
 
@@ -16,25 +16,68 @@ I'm an <b>undergraduate</b> at <a href="https://srmap.edu.in/"> <b>SRM Universit
 
 <div id="tech"></div>
 
-### Languages & Tools
+## 💻 Technologies
 
-<p align="" >
-<img src="./icons/javascript.svg" width="40"/>
-<img src="./icons/node-js.svg" width="40"/>
-<img src="./icons/react.svg" width="40"/>
-<img src="./icons/nextjs.svg" width="40"/>
-<img src="./icons/express.svg" width="40"/>
-<img src="./icons/mongodb.svg" width="40"/>
-<img src="./icons/tailwindcss.svg" width="40"/>
-<img src="./icons/sass.svg" width="40"/>
-<img src="./icons/python.svg" width="40"/>
-<img src="./icons/unity.svg" width="40"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="30">
+      <a>
+        <img src="./icons/javascript.svg" width="40"/>
+      </a>
+    </td>
+    <td align="center" width="30">
+      <a>
+        <img src="./icons/node-js.svg" width="40"/>
+      </a>
+    </td>
+    <td align="center" width="30">
+      <a>
+        <img src="./icons/react.svg" width="40"/>
+      </a>
+    </td>
+    <td align="center" width="30">
+      <a>
+        <img src="./icons/nextjs.svg" width="40"/>
+      </a>
+    </td>
+     <td align="center" width="30">
+      <a>
+        <img src="./icons/express.svg" width="40"/>
+      </a>
+    </td>
+    <td align="center" width="30">
+      <a>
+        <img src="./icons/mongodb.svg" width="40"/>
+      </a>
+    </td>
+    <td align="center" width="30">
+      <a>
+        <img src="./icons/tailwindcss.svg" width="40"/>
+      </a>
+    </td>
+    <td align="center" width="30">
+      <a>
+        <img src="./icons/sass.svg" width="40"/>
+      </a>
+    </td>
+    <td align="center" width="30">
+      <a>
+        <img src="./icons/python.svg" width="40"/>
+      </a>
+    </td>
+    <td align="center" width="30">
+      <a>
+        <img src="./icons/unity.svg" width="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
+<br>
 
 ##
 
 <br>
-<p align="center"><i>Reach out to me</i></p>
+<p align="center"=><i>Reach out to me</i></p>
  <p align="center">
   <a href="https://www.linkedin.com/in/soilshubham/"><img alt="LinkedIn" title="LinkedIn" src="./icons/linkedin.svg" width=20px" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/soilshubham"><img alt="Twitter" title="Twitter" src="./icons/twitter.svg" width=20px/></a>&nbsp;&nbsp;&nbsp;
