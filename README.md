@@ -21,54 +21,54 @@ I'm an <b>undergraduate</b> at <a href="https://srmap.edu.in/"> <b>SRM Universit
 
 <table>
   <tr>
-    <td align="center" width="60">
+    <td align="center" width="96">
       <a>
-        <img src="./icons/javascript.svg" width="50"/>
+        <img src="./icons/javascript.svg" width="80"/>
       </a>
     </td>
-    <td align="center" width="60">
+    <td align="center" width="80">
       <a>
-        <img src="./icons/node-js.svg" width="50"/>
+        <img src="./icons/node-js.svg" width="60%"/>
       </a>
     </td>
-    <td align="center" width="60">
+    <td align="center" width="80">
       <a>
-        <img src="./icons/react.svg" width="50"/>
+        <img src="./icons/react.svg" width="60%"/>
       </a>
     </td>
-    <td align="center" width="60">
+    <td align="center" width="80">
       <a>
-        <img src="./icons/nextjs.svg" width="50"/>
+        <img src="./icons/nextjs.svg" width="60%"/>
       </a>
     </td>
-     <td align="center" width="60">
+     <td align="center" width="80">
       <a>
-        <img src="./icons/express.svg" width="50"/>
+        <img src="./icons/express.svg" width="60%"/>
       </a>
     </td>
-    <td align="center" width="60">
+    <td align="center" width="80">
       <a>
-        <img src="./icons/mongodb.svg" width="50"/>
+        <img src="./icons/mongodb.svg" width="60%"/>
       </a>
     </td>
-    <td align="center" width="60">
+    <td align="center" width="80">
       <a>
-        <img src="./icons/tailwindcss.svg" width="50"/>
+        <img src="./icons/tailwindcss.svg" width="60%"/>
       </a>
     </td>
-    <td align="center" width="60">
+    <td align="center" width="80">
       <a>
-        <img src="./icons/sass.svg" width="50"/>
+        <img src="./icons/sass.svg" width="60%"/>
       </a>
     </td>
-    <td align="center" width="60">
+    <td align="center" width="80">
       <a>
-        <img src="./icons/python.svg" width="50"/>
+        <img src="./icons/python.svg" width="60%"/>
       </a>
     </td>
-    <td align="center" width="60">
+    <td align="center" width="80">
       <a>
-        <img src="./icons/unity.svg" width="50"/>
+        <img src="./icons/unity.svg" width="60%"/>
       </a>
     </td>
   </tr>
