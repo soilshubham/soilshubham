@@ -27,12 +27,12 @@ I'm an <b>undergraduate</b> at <a href="https://srmap.edu.in/"> <b>SRM Universit
 <a href="https://www.adobe.com/in/products/photoshop.html" title="Photoshop"><img src="icons/png/photoshop.png" /></a>
 <a href="https://www.python.org/" title="Python"><img src="icons/png/py.png" /></a>
 
-<!-- <a href="https://www.w3schools.com/html/" title="HTML"><img src="icons/png/html.png" /></a> -->
-
 <a href="https://www.w3schools.com/css/" title="CSS"><img src="icons/png/css.png" /></a>
 <a href="https://sass-lang.com/" title="Sass"><img src="icons/png/sass.png" /></a>
 <a href="https://tailwindcss.com/" title="TailwindCSS"><img src="icons/png/tailwindcss.png" /></a>
 <a href="https://unity.com/" title="Unity3d"><img src="icons/png/unity.png" /></a>
+
+<!-- <a href="https://www.w3schools.com/html/" title="HTML"><img src="icons/png/html.png" /></a> -->
 <br>
 
 ##
