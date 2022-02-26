@@ -1,6 +1,5 @@
 # Hii, you've arrived at sahil's Git! <br>I'm not in right now, please leave a [message](https://soilshubham.github.io).
 
-
 <img src="./githubCover.png" alt="sahil's banner" width="100%">
 
 ## :raising_hand: About me:
@@ -17,62 +16,23 @@ I'm an <b>undergraduate</b> at <a href="https://srmap.edu.in/"> <b>SRM Universit
 
 <div id="tech"></div>
 
-## 💻 Technologies
+## 💻 Languages & Tools
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a>
-        <img src="./icons/javascript.svg" width="80"/>
-      </a>
-    </td>
-    <td align="center" width="80">
-      <a>
-        <img src="./icons/node-js.svg" width="60%"/>
-      </a>
-    </td>
-    <td align="center" width="80">
-      <a>
-        <img src="./icons/react.svg" width="60%"/>
-      </a>
-    </td>
-    <td align="center" width="80">
-      <a>
-        <img src="./icons/nextjs.svg" width="60%"/>
-      </a>
-    </td>
-     <td align="center" width="80">
-      <a>
-        <img src="./icons/express.svg" width="60%"/>
-      </a>
-    </td>
-    <td align="center" width="80">
-      <a>
-        <img src="./icons/mongodb.svg" width="60%"/>
-      </a>
-    </td>
-    <td align="center" width="80">
-      <a>
-        <img src="./icons/tailwindcss.svg" width="60%"/>
-      </a>
-    </td>
-    <td align="center" width="80">
-      <a>
-        <img src="./icons/sass.svg" width="60%"/>
-      </a>
-    </td>
-    <td align="center" width="80">
-      <a>
-        <img src="./icons/python.svg" width="60%"/>
-      </a>
-    </td>
-    <td align="center" width="80">
-      <a>
-        <img src="./icons/unity.svg" width="60%"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://nodejs.org/" title="NodeJs"><img src="icons/png/node.png" /></a>
+<a href="https://expressjs.com/" title="ExpressJS"><img src="icons/png/express.png" /></a>
+<a href="https://reactjs.org/" title="React"><img src="icons/png/react.png" /></a>
+<a href="https://nextjs.org/" title="NextJS"><img src="icons/png/next.png" /></a>
+<a href="https://www.mongodb.com/" title="MongoDB"><img src="icons/png/mongodb.png" /></a>
+<a href="https://www.w3schools.com/js/" title="Javascript"><img src="icons/png/js.png" /></a>
+<a href="https://www.adobe.com/in/products/photoshop.html" title="Photoshop"><img src="icons/png/photoshop.png" /></a>
+<a href="https://www.python.org/" title="Python"><img src="icons/png/py.png" /></a>
+
+<!-- <a href="https://www.w3schools.com/html/" title="HTML"><img src="icons/png/html.png" /></a> -->
+
+<a href="https://www.w3schools.com/css/" title="CSS"><img src="icons/png/css.png" /></a>
+<a href="https://sass-lang.com/" title="Sass"><img src="icons/png/sass.png" /></a>
+<a href="https://tailwindcss.com/" title="TailwindCSS"><img src="icons/png/tailwindcss.png" /></a>
+<a href="https://unity.com/" title="Unity3d"><img src="icons/png/unity.png" /></a>
 <br>
 
 ##
