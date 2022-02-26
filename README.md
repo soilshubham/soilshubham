@@ -21,9 +21,9 @@ I'm an <b>undergraduate</b> at <a href="https://srmap.edu.in/"> <b>SRM Universit
 
 <table>
   <tr>
-    <td align="center" width="80">
+    <td align="center" width="96">
       <a>
-        <img src="./icons/javascript.svg" width="60%"/>
+        <img src="./icons/javascript.svg" width="80"/>
       </a>
     </td>
     <td align="center" width="80">
