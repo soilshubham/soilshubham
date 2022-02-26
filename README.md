@@ -40,9 +40,9 @@ I'm an <b>undergraduate</b> at <a href="https://srmap.edu.in/"> <b>SRM Universit
 <br>
 <p align="center"=><i>Reach out to me</i></p>
  <p align="center">
-  <a href="https://www.linkedin.com/in/soilshubham/"><img alt="LinkedIn" title="LinkedIn" src="./icons/linkedin.svg" width=20px" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/soilshubham"><img alt="Twitter" title="Twitter" src="./icons/twitter.svg" width=20px/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/soilshubham/"><img alt="Instagram" title="Instagram" src="./icons/instagram.svg" width=20px/></a>&nbsp;&nbsp;&nbsp;
-   <a href="mailto:soilshubham@gmail.com"><img alt="mail" title="mail" src="./icons/gmail.svg" width=20px/></a>
+  <a href="https://www.linkedin.com/in/soilshubham/"><img alt="LinkedIn" title="LinkedIn" src="./icons/svg/linkedin.svg" width=20px" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/soilshubham"><img alt="Twitter" title="Twitter" src="./icons/svg/twitter.svg" width=20px/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/soilshubham/"><img alt="Instagram" title="Instagram" src="./icons/svg/instagram.svg" width=20px/></a>&nbsp;&nbsp;&nbsp;
+   <a href="mailto:soilshubham@gmail.com"><img alt="mail" title="mail" src="./icons/svg/gmail.svg" width=20px/></a>
 </p>
 <br>
