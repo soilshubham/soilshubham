@@ -14,8 +14,6 @@ I'm a design minded full stack developer.<br>
    <img src="https://github-readme-stats.vercel.app/api?username=soilshubham&hide=issues&show_icons=true&theme=gotham&locale=en&layout=compact" alt="Sahil's github stats" width=450px/>
 </a><br><br>
 
-<div id="tech"></div>
-
 ## 💻 Languages & Tools
 
 <a href="https://nodejs.org/" title="NodeJs"><img src="icons/png/node.png" /></a>
