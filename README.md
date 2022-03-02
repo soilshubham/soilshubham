@@ -1,6 +1,6 @@
 # Hii, you've arrived at sahil's Git! <br>I'm not in right now, please leave a [message](https://soilshubham.github.io).
 
-<img src="./githubCover.png" alt="sahil's banner" width="100%">
+<img src="./cloud.jpg" alt="sahil's banner" width="100%">
 
 ## :raising_hand: About me:
 
