@@ -4,10 +4,10 @@
 
 ## :raising_hand: About me:
 
-I'm an <b>undergraduate</b> at <a href="https://srmap.edu.in/"> <b>SRM University AP</b></a>.<br>
-◽ Intrested in <b>Full-Stack Developement</b>, <b>Game developement</b> and <b>UI designing</b>.<br>
-◽ I like minimal art style.<br>
-◽ I’m currently learning everything about **Frontend** and **Backend** technologies.<br>
+I'm a design minded full stack developer.<br>
+◽ I'm intrested in <b>Full-Stack Developement</b>, <b>Game developement</b> and <b>UI designing</b><br>
+◽ I’m currently learning everything about **Frontend** and **Backend** technologies<br>
+◽ I love melted cheese<br>
 
 <br>
 <a href="https://github.com/soilshubham">
