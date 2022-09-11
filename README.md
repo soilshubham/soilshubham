@@ -4,10 +4,13 @@
 
 ## :raising_hand: About me:
 
-I'm a design minded full stack developer.<br>
-◽ I'm intrested in <b>Full-Stack Developement</b>, <b>Game developement</b> and <b>UI designing</b><br>
-◽ I’m currently learning everything about **Frontend** and **Backend** technologies<br>
-◽ I love melted cheese<br>
+# I'm a Full Stack Engineer who enjoys working with UI/UX.<br>
+
+Full-stack developer with experience in React, Typescript and NodeJs. 
+A Computer Science major at SRM University and settled in India. 
+I enjoy working with the MERN stack and I've a keen interest in UI/UX.
+
+psst: I love melted cheese<br>
 
 <br>
 <a href="https://github.com/soilshubham">
