@@ -1,6 +1,7 @@
 # Hii, you've arrived at sahil's Git! <br>I'm not in right now, please leave a [message](https://twitter.com/messages/compose?recipient_id=763040225551536128&text=Hi%20there,%20).
 
-<img src="./cloud.jpg" alt="sahil's banner" width="100%">
+![cloud](https://user-images.githubusercontent.com/54865101/210495327-96e5436c-0624-45f3-b16c-2d28ecc401ed.jpg)
+
 
 ## :raising_hand: About me:
 
