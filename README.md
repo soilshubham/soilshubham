@@ -1,7 +1,6 @@
 # Hii, you've arrived at sahil's Git! <br>I'm not in right now, please leave a [message](https://twitter.com/messages/compose?recipient_id=763040225551536128&text=Hi%20there,%20).
 
-![cloud](https://user-images.githubusercontent.com/54865101/210495327-96e5436c-0624-45f3-b16c-2d28ecc401ed.jpg)
-
+![Autodesk cover wide](https://user-images.githubusercontent.com/54865101/215277918-6972ea1a-3119-4dff-996a-a6841999a6dc.jpg)
 
 ## :raising_hand: About me:
 
@@ -17,7 +16,7 @@ psst: I love melted cheese<br>
 <a href="https://github.com/soilshubham">
    <img src="https://github-readme-stats.vercel.app/api?username=soilshubham&hide=issues&show_icons=true&theme=gotham&locale=en&layout=compact" alt="Sahil's github stats" width=450px/>
 </a><br><br>
-
+<!-- 
 ## 💻 Languages & Tools
 
 <a href="https://nodejs.org/" title="NodeJs"><img src="icons/png/node.png" /></a>
@@ -31,7 +30,7 @@ psst: I love melted cheese<br>
 <a href="https://www.w3schools.com/css/" title="CSS"><img src="icons/png/css.png" /></a>
 <a href="https://sass-lang.com/" title="Sass"><img src="icons/png/sass.png" /></a>
 <a href="https://tailwindcss.com/" title="TailwindCSS"><img src="icons/png/tailwindcss.png" /></a>
-<a href="https://unity.com/" title="Unity3d"><img src="icons/png/unity.png" /></a>
+<a href="https://unity.com/" title="Unity3d"><img src="icons/png/unity.png" /></a> -->
 
 <!-- <a href="https://www.w3schools.com/html/" title="HTML"><img src="icons/png/html.png" /></a> -->
 <br>
@@ -41,9 +40,14 @@ psst: I love melted cheese<br>
 <br>
 <p align="center"=><i>Reach out to me</i></p>
  <p align="center">
-  <a href="https://www.linkedin.com/in/soilshubham/"><img alt="LinkedIn" title="LinkedIn" src="./icons/svg/linkedin.svg" width=20px" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/soilshubham"><img alt="Twitter" title="Twitter" src="./icons/svg/twitter.svg" width=20px/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/soilshubham/"><img alt="Instagram" title="Instagram" src="./icons/svg/instagram.svg" width=20px/></a>&nbsp;&nbsp;&nbsp;
-   <a href="mailto:soilshubham@gmail.com"><img alt="mail" title="mail" src="./icons/svg/gmail.svg" width=20px/></a>
+  <a href="https://www.linkedin.com/in/soilshubham/">
+     linkedin
+  </a> &nbsp;&nbsp;&nbsp;
+  <a href="https://www.twitter.com/froznxd">
+     twitter
+  </a> &nbsp;&nbsp;&nbsp;
+  <a href="https://linktr.ee/froznxd">
+     linktree
+  </a> &nbsp;&nbsp;&nbsp;
 </p>
 <br>
