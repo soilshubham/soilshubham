@@ -1,7 +1,8 @@
 # Hii, you've arrived at sahil's Git! <br>I'm not in right now, please leave a [message](https://twitter.com/messages/compose?recipient_id=763040225551536128&text=Hi%20there,%20).
 
+![cloud](https://user-images.githubusercontent.com/54865101/210495327-96e5436c-0624-45f3-b16c-2d28ecc401ed.jpg)
 <!-- ![Autodesk cover wide](https://user-images.githubusercontent.com/54865101/215277918-6972ea1a-3119-4dff-996a-a6841999a6dc.jpg) -->
-![cover image](https://user-images.githubusercontent.com/54865101/215280155-e0f21e97-343c-4d36-b413-93888f0c4598.jpg)
+<!-- ![cover image](https://user-images.githubusercontent.com/54865101/215280155-e0f21e97-343c-4d36-b413-93888f0c4598.jpg) -->
 
 ## :raising_hand: About me:
 
