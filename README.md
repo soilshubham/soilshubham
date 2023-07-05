@@ -12,8 +12,6 @@ Full-stack developer with experience in React, Typescript and NodeJs.
 A Computer Science major at SRM University and settled in India. 
 I enjoy working with the MERN stack and I've a keen interest in UI/UX.
 
-psst: I love melted cheese<br>
-
 <br>
 <a href="https://github.com/soilshubham">
    <img src="https://github-readme-stats.vercel.app/api?username=soilshubham&hide=issues&show_icons=true&theme=gotham&locale=en&layout=compact" alt="Sahil's github stats" width=450px/>
