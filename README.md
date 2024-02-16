@@ -1,53 +1,11 @@
-# Hii, you've arrived at sahil's Git! <br>I'm not in right now, please leave a [message](https://twitter.com/messages/compose?recipient_id=763040225551536128&text=Hi%20there,%20).
+## hey i'm sahil <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="25px" alt="hi">
 
-![cloud](https://user-images.githubusercontent.com/54865101/210495327-96e5436c-0624-45f3-b16c-2d28ecc401ed.jpg)
-<!-- ![Autodesk cover wide](https://user-images.githubusercontent.com/54865101/215277918-6972ea1a-3119-4dff-996a-a6841999a6dc.jpg) -->
-<!-- ![cover image](https://user-images.githubusercontent.com/54865101/215280155-e0f21e97-343c-4d36-b413-93888f0c4598.jpg) -->
+### full-stack developer who enjoys working with ui/ux
 
-## :raising_hand: About me:
+#### 🔨 tech i work on:&nbsp; <a href="https://www.typescriptlang.org" title="Typescript"><img src="https://github.com/soilshubham/soilshubham/assets/54865101/f8459382-c65c-4ba6-8f6a-d38828f3a828" height="20px" /></a>&nbsp; <a href="https://www.w3schools.com/js/" title="Javascript"><img src="icons/png/js.png" height="20px" /></a>&nbsp; <a href="https://nodejs.org/" title="NodeJs"><img src="./icons/png/node.png" height="20px" /></a>&nbsp; <a href="https://reactjs.org/" title="React"><img src="icons/png/react.png" height="20px" /></a>&nbsp; <a href="https://expressjs.com/" title="ExpressJS"><img src="icons/png/express.png" height="20px" /></a>&nbsp; <a href="https://jestjs.io/" title="Jest"><img src="https://github.com/soilshubham/soilshubham/assets/54865101/faac88c4-c43e-45fa-b4e8-89001a6ac96f" height="20px" /></a>&nbsp; <a href="https://sass-lang.com/" title="Sass"><img src="icons/png/sass.png" height="20px" /></a>&nbsp;
 
-# I'm a Full Stack Engineer who enjoys working with UI/UX.<br>
-
-Full-stack developer with experience in React, Typescript and NodeJs. 
-A Computer Science major at SRM University and settled in India. 
-I enjoy working with the MERN stack and I've a keen interest in UI/UX.
-
-<br>
-<a href="https://github.com/soilshubham">
-   <img src="https://github-readme-stats.vercel.app/api?username=soilshubham&hide=issues&show_icons=true&theme=gotham&locale=en&layout=compact" alt="Sahil's github stats" width=450px/>
-</a><br><br>
-<!-- 
-## 💻 Languages & Tools
-
-<a href="https://nodejs.org/" title="NodeJs"><img src="icons/png/node.png" /></a>
-<a href="https://expressjs.com/" title="ExpressJS"><img src="icons/png/express.png" /></a>
-<a href="https://reactjs.org/" title="React"><img src="icons/png/react.png" /></a>
-<a href="https://nextjs.org/" title="NextJS"><img src="icons/png/next.png" /></a>
-<a href="https://www.mongodb.com/" title="MongoDB"><img src="icons/png/mongodb.png" /></a>
-<a href="https://www.w3schools.com/js/" title="Javascript"><img src="icons/png/js.png" /></a>
-<a href="https://www.adobe.com/in/products/photoshop.html" title="Photoshop"><img src="icons/png/photoshop.png" /></a>
-<a href="https://www.python.org/" title="Python"><img src="icons/png/py.png" /></a>
-<a href="https://www.w3schools.com/css/" title="CSS"><img src="icons/png/css.png" /></a>
-<a href="https://sass-lang.com/" title="Sass"><img src="icons/png/sass.png" /></a>
-<a href="https://tailwindcss.com/" title="TailwindCSS"><img src="icons/png/tailwindcss.png" /></a>
-<a href="https://unity.com/" title="Unity3d"><img src="icons/png/unity.png" /></a> -->
-
-<!-- <a href="https://www.w3schools.com/html/" title="HTML"><img src="icons/png/html.png" /></a> -->
-<br>
-
-##
-
-<br>
-<p align="center"=><i>Reach out to me</i></p>
- <p align="center">
-  <a href="https://www.linkedin.com/in/soilshubham/">
-     linkedin
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://www.twitter.com/froznxd">
-     twitter
-  </a> &nbsp;&nbsp;&nbsp;
-  <a href="https://linktr.ee/froznxd">
-     linktree
-  </a> &nbsp;&nbsp;&nbsp;
-</p>
-<br>
+- 🌏 23yo, based out of India 
+- ⚙️ i use daily: `.ts`, `.js`, `.html`, `.css`, `.psd`
+- 💅 i like designing `ui`/`ux`
+- 🛠 im currently learning everything about devops
+- 💬 my socials:&nbsp; [website](https://www.sahilshubham.com/) &nbsp; [twitter](https://x.com/froznxd) &nbsp; [linkedin](https://www.linkedin.com/in/soilshubham/) &nbsp; [blog](https://blog.sahilshubham.com/) 
